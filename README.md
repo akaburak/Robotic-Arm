@@ -15,6 +15,7 @@
  The way to improve this project includes automation. At this stage, the movement can be provided both by the code and the button control from the breadbord circuit. However, by using proximity sensors and a camera, the whole process can be automated. The camera can be controlled by the Arduino to perceive the target, calculate the distance and decide on an action plan.
 #
 ### What is included in the files
+* Video of the robotic arm in action
 * All of the sldprt files of the robotic arm
 * Stl files of the robotic arm
 * Sldasm file of the robotic arm
